@@ -17,3 +17,5 @@ git commit - Creates a snapshot of the files that are staged on local repository
 git push - Takes committed files on local repository and copies them to the remote repository.
 
 git checkout - Navigates to branches (adding -b creates a new branch)
+
+--
