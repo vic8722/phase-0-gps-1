@@ -1,7 +1,8 @@
 #This is some awesome markdown
 **This is something bold**
 *This is something italicized*
-`foo = bar.foo`
+
+`food = bar.foo`
 
 ```ruby
 def bar
